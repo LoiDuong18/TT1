@@ -156,7 +156,7 @@
 <div class=" container footerend">
   <div class="row">
     <div class="col-8">
-      @2016 Lê Thái Sang.Designed
+      @2016 Lợi Dương.Designed
       <span style="color:#3ac3ff;">MagenTech.Com</span>
     </div>
     <div class="col-4">
